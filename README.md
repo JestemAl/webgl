@@ -1,6 +1,6 @@
 # webgl
  Mini projects made in webGL.
- Every folder contains an image of result
+ Every folder contains an image of result.
 
  ## donut:
  Donut shape made by rectangles
