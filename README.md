@@ -11,6 +11,6 @@
 
  ## moving guy:
  running character made by rectangles
- - controls
-  - camera: arrows
-  - character: W, S
+ - controls:
+   - camera: arrows
+   - character: W, S
