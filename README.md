@@ -1,5 +1,5 @@
 # webgl
- mini projects made in webGL
+ Mini projects made in webGL
 
  ## donut:
  - new - viewport responsive donut 
