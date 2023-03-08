@@ -15,3 +15,6 @@
  - controls:
    - camera: arrows
    - character: W, S
+
+## simple village:
+simple village loaded from obj file
